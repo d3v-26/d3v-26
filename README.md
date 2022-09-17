@@ -9,7 +9,7 @@ I started coding 4 years ago. I found web development and designing very fascina
 * 🌍  I currently reside at Gainesville, FL
 * 🖥️  See my portfolio at [MyPortfolio](http://d3v-26.github.io/portfolio)
 * ✉️  You can contact me at [devrpatel26@gmail.com](mailto:devrpatel26@gmail.com)
-* 🧠  Current UF Fall'22 MSCS Student
+* 🐊  Current UF Fall'22 MSCS Student
 * ⚡  I'm Eduonix Certified Full Stack JavaScript Developer
 
 ### Skills
