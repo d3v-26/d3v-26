@@ -6,10 +6,10 @@ Web Developer and Designer
 
 I started coding 4 years ago. I found web development and designing very fascinating and compelling. Since then I trying to learn and adapt to any technologies and frameworks prevalent in the field of web developement.
 
-* 🌍  I'm based in India
+* 🌍  I currently reside at Gainesville, FL
 * 🖥️  See my portfolio at [MyPortfolio](http://d3v-26.github.io/portfolio)
 * ✉️  You can contact me at [devrpatel26@gmail.com](mailto:devrpatel26@gmail.com)
-* 🧠  I'm learning Figma
+* 🧠  Current UF Fall'22 MSCS Student
 * ⚡  I'm Eduonix Certified Full Stack JavaScript Developer
 
 ### Skills
@@ -25,8 +25,8 @@ I started coding 4 years ago. I found web development and designing very fascina
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vue-colored.svg" width="36" height="36" alt="Vue" /></a>
-<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angular-colored.svg" width="36" height="36" alt="Angular" /></a>
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://v2.vuejs.org/images/logo.svg" width="36" height="36" alt="Vue" /></a>
+<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://angular.io/assets/images/logos/angular/angular.svg" width="36" height="36" alt="Angular" /></a>
 <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
