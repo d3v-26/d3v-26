@@ -1,4 +1,4 @@
-Hi 👋 My name is Dev
+Hiya, Floks 👋, I'm Dev
 ====================
 
 Web Developer and Designer
