@@ -58,6 +58,9 @@ I started coding 4 years ago. I found web development and designing very fascina
 
 <div width="100%" align="center"><a href="https://github.com/d3v-26/shabdamitra" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=d3v-26&repo=shabdamitra&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
+<div width="100%" align="center"><a href="https://github.com/rsj-rishabh/CISE-6930-NLP-Ninjas" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rsj-rishabh&repo=CISE-6930-NLP-Ninjas&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+
+<div width="100%" align="center"><a href="https://github.com/d3v-26/Automatic-Time-Table-Generator" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=d3v-26&repo=Automatic-Time-Table-Generator&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
 <div width="100%" align="center"><a href="https://github.com/d3v-26/portfolio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=d3v-26&repo=portfolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
