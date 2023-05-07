@@ -54,6 +54,11 @@ I started coding 4 years ago. I found web development and designing very fascina
 
 <b>Top Repositories</b>
 
+<div width="100%" align="center"><a href="https://github.com/d3v-26/Compiler-PLP-Project" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=d3v-26&repo=Compiler-PLP-Project&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+
+<div width="100%" align="center"><a href="https://github.com/d3v-26/shabdamitra" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=d3v-26&repo=shabdamitra&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+
+
 <div width="100%" align="center"><a href="https://github.com/d3v-26/portfolio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=d3v-26&repo=portfolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
 <div width="100%" align="center"><a href="https://github.com/d3v-26/REMS" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=d3v-26&repo=REMS&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
