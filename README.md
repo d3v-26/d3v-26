@@ -1,4 +1,4 @@
-Hiya, Floks 👋, I'm Dev
+Hiya, Folks 👋, I'm Dev
 ====================
 
 Web Developer and Designer
