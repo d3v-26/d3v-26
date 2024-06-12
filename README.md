@@ -7,7 +7,7 @@ Software Developer
 Ex-Software Intern at Indian Institute of Technology Bombay | MSCS Graduate Class of 2024 @ University of Florida 🐊
 
 * 🌍 I currently reside at Gainesville, FL
-* 🖥️ See my portfolio at [MyPortfolio](pateldev.tech)
+* 🖥️ See my portfolio at [MyPortfolio](https://pateldev.tech)
 * ✉️  You can contact me at [devrpatel26@gmail.com](mailto:devrpatel26@gmail.com)
 * 📃 Find my latest resume [Here](https://d3v-26.github.io/resume/)
 * ⚡  I'm Eduonix [Certified Full Stack JavaScript Developer](https://www.eduonix.com/certificate/eeb5da8ef8)
