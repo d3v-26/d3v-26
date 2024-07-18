@@ -1,11 +1,11 @@
-Hiya, Folks 👋, I'm Dev Patel
-====================
 
-Software Developer
---------------------------
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=1589F0&multiline=false&random=false&width=450&height=40&lines=Hiya,+Folks+👋,+I'm+Dev+Patel)](https://git.io/typing-svg)
+
+
 
 Ex-Software Intern at Indian Institute of Technology Bombay | MSCS Graduate Class of 2024 @ University of Florida 🐊
 
+* 🧑‍💻 Actively looking for Fulltime Software Dev Roles
 * 🌍 I currently reside at Gainesville, FL
 * 🖥️ See my portfolio at [MyPortfolio](https://pateldev.tech)
 * ✉️  You can contact me at [devrpatel26@gmail.com](mailto:devrpatel26@gmail.com)
@@ -46,17 +46,6 @@ Ex-Software Intern at Indian Institute of Technology Bombay | MSCS Graduate Clas
 
 <p align="left"> <a href="https://www.codepen.io/Nik-mkson" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://www.github.com/d3v-26" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/dev26_01/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/dev-patel-ba507a170/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
+### Most Used Languages
 
-### Top Repositories
-
-<div width="100%" align="center"><a href="https://github.com/d3v-26/Compiler-PLP-Project" align="left"><img align="left" width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=d3v-26&repo=Compiler-PLP-Project&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-
-<div width="100%" align="center"><a href="https://github.com/d3v-26/shabdamitra" align="left"><img align="left" width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=d3v-26&repo=shabdamitra&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-
-<div width="100%" align="center"><a href="https://github.com/rsj-rishabh/CISE-6930-NLP-Ninjas" align="left"><img align="left" width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=rsj-rishabh&repo=CISE-6930-NLP-Ninjas&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-
-<div width="100%" align="center"><a href="https://github.com/d3v-26/Automatic-Time-Table-Generator" align="left"><img align="left" width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=d3v-26&repo=Automatic-Time-Table-Generator&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-
-<div width="100%" align="center"><a href="https://github.com/d3v-26/portfolio" align="left"><img align="left" width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=d3v-26&repo=portfolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-
-<div width="100%" align="center"><a href="https://github.com/d3v-26/REMS" align="left"><img align="left" width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=d3v-26&repo=REMS&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<img height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d3v-26&layout=compact&theme=tokyonight">
