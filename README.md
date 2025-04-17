@@ -3,10 +3,10 @@
 
 
 
-Ex-Software Intern at Indian Institute of Technology Bombay | MSCS Graduate Class of 2024 @ University of Florida 🐊
+{Research Assistant, MSCS Graduate Class of 2024} @ University of Florida 🐊 | Ex-Software Developer @ { Indian Institute of Technology Bombay & BTGPL}
 
 * 🧑‍💻 Actively looking for Fulltime Software Dev Roles
-* 🌍 I currently reside at Gainesville, FL
+* 🌍 I am open to relocation.
 * 🖥️ See my portfolio at [MyPortfolio](https://pateldev.tech)
 * ✉️  You can contact me at [devrpatel26@gmail.com](mailto:devrpatel26@gmail.com)
 * 📃 Find my latest resume [Here](https://d3v-26.github.io/resume/)
